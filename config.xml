@@ -2,7 +2,7 @@
 <widget id="mx.creapagina.acroweb.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Acroweb</name>
     <description>
-       Diseñp de paginas web Soporte clientes Acroweb
+       Diseño de paginas web Soporte clientes Acroweb
     </description>
     <author email="juan@acroweb.mx.com" href="https://acroweb.mx">
         Acroweb
